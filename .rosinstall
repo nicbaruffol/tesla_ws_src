@@ -25,7 +25,7 @@
     version: master
 - git:
     local-name: maxon_epos_ethercat_sdk
-    uri: https://github.com/Benjamin-Riedi/maxon_epos_ethercat_sdk.git
+    uri: git@github.com:nicbaruffol/maxon_epos_ethercat_sdk.git
     version: nic/sdo-gain-readback
 - git:
     local-name: message_logger

@@ -1,0 +1,19 @@
+# nested repos are tracked via .rosinstall
+/ads_catkin/
+/cpp_data_logger/
+/ethercat_motor_msgs/
+/ethercat_ros_configurator/
+/ethercat_sdk_master/
+/external/
+/gelsight_ros/
+/maxon_epos_ethercat_sdk/
+/message_logger/
+/Navion/
+/pendulum_control/
+/soem_interface/
+/Tesla/
+/Tesla_core/
+/vicon_bridge/
+.rosinstall.bak
+*.bag
+*.db3

@@ -1,0 +1,61 @@
+# Workspace manifest. Restore with: wstool init . .rosinstall  (or vcs import)
+- git:
+    local-name: ads_catkin
+    uri: git@github.com:ethz-msrl/ads_catkin.git
+    version: 6cb4104
+- git:
+    local-name: cpp_data_logger
+    uri: git@github.com:ethz-msrl/cpp_data_logger.git
+    version: master
+- git:
+    local-name: ethercat_motor_msgs
+    uri: https://github.com/ethz-msrl/ethercat_motor_msgs
+    version: main
+- git:
+    local-name: ethercat_ros_configurator
+    uri: https://github.com/Benjamin-Riedi/ethercat_ros_configurator.git
+    version: bt_benjamin
+- git:
+    local-name: ethercat_sdk_master
+    uri: https://github.com/leggedrobotics/ethercat_sdk_master.git
+    version: 6b420bc
+- git:
+    local-name: gelsight_ros
+    uri: https://github.com/Benjamin-Riedi/gelsight_ros.git
+    version: master
+- git:
+    local-name: maxon_epos_ethercat_sdk
+    uri: https://github.com/Benjamin-Riedi/maxon_epos_ethercat_sdk.git
+    version: nic/sdo-gain-readback
+- git:
+    local-name: message_logger
+    uri: https://github.com/leggedrobotics/message_logger.git
+    version: bdb867e
+- git:
+    local-name: Navion
+    uri: git@github.com:ethz-msrl/Navion.git
+    version: master
+- git:
+    local-name: pendulum_control
+    uri: https://github.com/Benjamin-Riedi/pendulum_control.git
+    version: master
+- git:
+    local-name: soem_interface
+    uri: https://github.com/leggedrobotics/soem_interface.git
+    version: 7b7bed2
+- git:
+    local-name: Tesla
+    uri: git@github.com:ethz-msrl/Tesla.git
+    version: feature/oct_pend_levitation
+- git:
+    local-name: Tesla_core
+    uri: git@github.com:ethz-msrl/Tesla_core.git
+    version: master
+- git:
+    local-name: vicon_bridge
+    uri: git@github.com:JasanZughaibi/vicon_bridge.git
+    version: master
+- git:
+    local-name: external/catkin_simple
+    uri: git@github.com:catkin/catkin_simple.git
+    version: 0e62848

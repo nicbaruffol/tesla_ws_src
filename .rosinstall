@@ -13,20 +13,20 @@
     version: main
 - git:
     local-name: ethercat_ros_configurator
-    uri: https://github.com/Benjamin-Riedi/ethercat_ros_configurator.git
-    version: bt_benjamin
+    uri: git@github.com:nicbaruffol/ethercat_ros_configurator.git
+    version: nic/MT_main
 - git:
     local-name: ethercat_sdk_master
     uri: https://github.com/leggedrobotics/ethercat_sdk_master.git
     version: 6b420bc
 - git:
     local-name: gelsight_ros
-    uri: https://github.com/Benjamin-Riedi/gelsight_ros.git
+    uri: https://github.com/JasanZughaibi/gelsight_ros.git
     version: master
 - git:
     local-name: maxon_epos_ethercat_sdk
     uri: git@github.com:nicbaruffol/maxon_epos_ethercat_sdk.git
-    version: nic/sdo-gain-readback
+    version: nic/MT_main
 - git:
     local-name: message_logger
     uri: https://github.com/leggedrobotics/message_logger.git
@@ -37,7 +37,7 @@
     version: master
 - git:
     local-name: pendulum_control
-    uri: https://github.com/Benjamin-Riedi/pendulum_control.git
+    uri: https://github.com/JasanZughaibi/pendulum_control.git
     version: master
 - git:
     local-name: soem_interface

@@ -13,8 +13,8 @@
     version: main
 - git:
     local-name: ethercat_ros_configurator
-    uri: https://github.com/Benjamin-Riedi/ethercat_ros_configurator.git
-    version: bt_benjamin
+    uri: git@github.com:nicbaruffol/ethercat_ros_configurator.git
+    version: nic/MT_main
 - git:
     local-name: ethercat_sdk_master
     uri: https://github.com/leggedrobotics/ethercat_sdk_master.git

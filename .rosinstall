@@ -37,7 +37,7 @@
     version: master
 - git:
     local-name: pendulum_control
-    uri: https://github.com/JasanZughaibi/pendulum_control.git
+    uri: git@github.com:nicbaruffol/pendulum_control.git
     version: master
 - git:
     local-name: soem_interface

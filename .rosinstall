@@ -2,60 +2,60 @@
 - git:
     local-name: ads_catkin
     uri: git@github.com:ethz-msrl/ads_catkin.git
-    version: 6cb4104
+    version: 6cb4104479
 - git:
     local-name: cpp_data_logger
     uri: git@github.com:ethz-msrl/cpp_data_logger.git
-    version: master
+    version: de6f7253da   # master
 - git:
     local-name: ethercat_motor_msgs
     uri: https://github.com/ethz-msrl/ethercat_motor_msgs
-    version: main
+    version: fdc956b222   # main
 - git:
     local-name: ethercat_ros_configurator
     uri: git@github.com:nicbaruffol/ethercat_ros_configurator.git
-    version: nic/MT_main
+    version: f6b43e24b7   # nic/MT_main
 - git:
     local-name: ethercat_sdk_master
     uri: https://github.com/leggedrobotics/ethercat_sdk_master.git
-    version: 6b420bc
+    version: 6b420bc178
 - git:
     local-name: gelsight_ros
-    uri: https://github.com/JasanZughaibi/gelsight_ros.git
-    version: master
+    uri: git@github.com:nicbaruffol/gelsight_ros.git
+    version: c629c72572   # master
 - git:
     local-name: maxon_epos_ethercat_sdk
     uri: git@github.com:nicbaruffol/maxon_epos_ethercat_sdk.git
-    version: nic/MT_main
+    version: 34a33090ba   # nic/MT_main
 - git:
     local-name: message_logger
     uri: https://github.com/leggedrobotics/message_logger.git
-    version: bdb867e
+    version: bdb867e570
 - git:
     local-name: Navion
     uri: git@github.com:ethz-msrl/Navion.git
-    version: master
+    version: b496afa1f0   # master
 - git:
     local-name: pendulum_control
     uri: git@github.com:nicbaruffol/pendulum_control.git
-    version: master
+    version: 92511bc757   # kalman-constant-delay
 - git:
     local-name: soem_interface
     uri: https://github.com/leggedrobotics/soem_interface.git
-    version: 7b7bed2
+    version: 7b7bed29d8
 - git:
     local-name: Tesla
     uri: git@github.com:ethz-msrl/Tesla.git
-    version: feature/oct_pend_levitation
+    version: 65a8ab12fd   # feature/oct_pend_levitation
 - git:
     local-name: Tesla_core
     uri: git@github.com:ethz-msrl/Tesla_core.git
-    version: master
+    version: 4fce4cdd0d   # master
 - git:
     local-name: vicon_bridge
     uri: git@github.com:JasanZughaibi/vicon_bridge.git
-    version: master
+    version: e200883b90   # master
 - git:
     local-name: external/catkin_simple
     uri: git@github.com:catkin/catkin_simple.git
-    version: 0e62848
+    version: 0e62848b12
